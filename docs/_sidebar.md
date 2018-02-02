@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [主页](/)
-- [第二页](second.md)
-- [第三页](third.md)
+- [介绍](/)
+- [管理中心](ADT_Management_Center.md)
+- [产品中心](ADT_Product_Center.md)
+- [FAQ](ADT_FAQ.md)
