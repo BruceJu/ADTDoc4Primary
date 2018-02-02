@@ -2,7 +2,7 @@
 
 > * 管理中心页面可以通过点击Ad Tracking主界面上的【管理中心】按钮和扳手图标进入(如下图)
 <div style="margin:10px,padding:10px">
-   <img src="https://github.com/BruceJu/LPython_Spider/blob/master/LPythonSpider/LPythonSpider/image/celery_send_start.png" width="80%" />
+   <img src="https://github.com/BruceJu/ADTDoc4Primary/blob/master/docs/image/manage_center/manage_center_01.png" width="80%" />
 </div>
 > * 进入管理中心后Ad Tracking有三大功能(如下图)
 >     * 【授权账户】
