@@ -2,12 +2,11 @@
 
 # Ad Traking小白使用文档
 
-> 广告效果检测
+> 面向新用户
 
-- 渠道质量评估
-- 效果追踪
-- 分群分析
+- 带你全面了解Ad Tracking 
+
 
 
 [官网](https://www.talkingdata.com/)
-[Ad Traking](/#/second)
+[Ad Traking](/#/ADT_Management_Center)

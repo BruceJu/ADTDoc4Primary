@@ -1,3 +1,4 @@
+<!-- 内联样式文件 不用修改，定义边框用的-->
 <style>
 .div-border-image{
     margin-top: 20px;
@@ -5,7 +6,6 @@
     box-shadow: 10px 10px 5px #888888;
     width:100%;
     hegiht:auto;
-    padding:10px;
     background: whitesmoke;
     border: yellowgreen inset;
     border-right-width: 0px;
@@ -45,6 +45,8 @@
     border-radius: 5px;
     }      
 </style>
+<!-- 内联样式文件 不用修改，定义边框用的-->
+
 ## 概况
 ------
 
@@ -315,7 +317,8 @@ http://www.test.com?clid={“a”:”1”,”b”:”2”,”c”:”3”}
    <img src="http://i2.bvimg.com/630822/d0e60e7dae13f565.png" width="100%" />
 </div>
 </div>
-* PS：[点我查看-自定义数据回调参数说明文档，参数描述和定义](http://doc.talkingdata.com/posts/163)
+
+<div class="div-border-image" style="padding:10px"> PS：[点我查看-自定义数据回调参数说明文档，参数描述和定义](http://doc.talkingdata.com/posts/163)</div>
 
 
 ##### <h4>:100: 注意事项</h4>
